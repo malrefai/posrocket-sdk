@@ -12,6 +12,9 @@
 .ruby-version
 .ruby-gemset
 
+# Ignore gemfile lock
+/Gemfile.lock
+
 # Ignore bundler config.
 /.bundle
 /.bundle/
